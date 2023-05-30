@@ -14,7 +14,7 @@ public class Practise {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("This is just a practise for comit");
+        System.out.println("This is just a practise for comit haha");
     }
     
 }
